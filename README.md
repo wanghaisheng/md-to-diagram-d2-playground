@@ -1,3 +1,8 @@
+add a input from natural lang to d2 expression with claude or ds
+
+
+
+
 <div align="center">
   <img src="./src/assets/images/og.png" alt="D2 Playground" />
   <h2>
